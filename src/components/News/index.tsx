@@ -8,8 +8,7 @@ const News: React.FC = () => {
       <span>Assuntos do momento no Brasil</span>
       <strong>REFAZENDO AS EMPANADAS DA PAOLA CAROSELLA DO MASTERCHEF!</strong>
     </Container>
-
   );
-}
+};
 
 export default News;
